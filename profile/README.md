@@ -1,3 +1,3 @@
-# Sustainity App
+# Mount
 
-Develops and maintains sustainity.cloud
+Develops and maintains mount.app / mount.cloud (prev Sustainity)
